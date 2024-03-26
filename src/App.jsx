@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom'
-import './App.css'
 import Quote from './Quote'
 import DailyFact from './DailyFact'
 import BodyAndMind from './BodyAndMind'
